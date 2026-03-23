@@ -70,3 +70,4 @@ Delivered actionable insights for business decision-making
 This dashboard provides a comprehensive view of pizza sales performance and helps stakeholders make data-driven decisions. It highlights customer preferences, seasonal demand patterns, and top-performing products, which can be used to optimize marketing strategies, inventory planning, and pricing.
 
 The dashboard link is as below:
+https://github.com/maliniya30-del/pizza_sales-dashboard/blob/main/pizza_sales.png
