@@ -71,3 +71,5 @@ This dashboard provides a comprehensive view of pizza sales performance and help
 
 The dashboard link is as below:
 https://github.com/maliniya30-del/pizza_sales-dashboard/blob/main/pizza_sales.png
+
+Full project available upon request on my email id: malinibhattacharya59@gmail.com
